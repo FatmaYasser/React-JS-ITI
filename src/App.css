@@ -17,10 +17,25 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.error{
+   color: red 
+}
+.sucess{
+  color:green
 
+  
+}
+.size{
+  widows: 100px;
+  height: 100px;
+}
+.text{
+  text-align: center
+}
 .App-link {
   color: #61dafb;
 }
+
 
 @keyframes App-logo-spin {
   from {
@@ -29,4 +44,5 @@
   to {
     transform: rotate(360deg);
   }
+  
 }
